@@ -1,4 +1,7 @@
-# test coverage for  [excel-export (v0.5.1)](https://github.com/functionscope/Node-Excel-Export)  [![npm package](https://img.shields.io/npm/v/npmtest-excel-export.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-excel-export) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-excel-export.svg)](https://travis-ci.org/npmtest/node-npmtest-excel-export)
+# npmtest-excel-export
+
+#### basic test coverage for  [excel-export (v0.5.1)](https://github.com/functionscope/Node-Excel-Export)  [![npm package](https://img.shields.io/npm/v/npmtest-excel-export.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-excel-export) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-excel-export.svg)](https://travis-ci.org/npmtest/node-npmtest-excel-export)
+
 #### Simple data set export to Excel xlsx file
 
 [![NPM](https://nodei.co/npm/excel-export.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/excel-export)
